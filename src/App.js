@@ -8,6 +8,7 @@ function App() {
         <p>
           hello hello hello
         </p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A modi voluptates excepturi aliquam consequuntur sunt doloremque illo fugiat, iure nostrum inventore odio cumque officia repellat libero fuga optio dolores possimus.</p>
       </header>
     </div>
   );
